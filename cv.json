@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Grace (Yukun) Xu",
+    "email": "yukunxu@buffalo.edu",
+    "summary": "I'm a CAT person🐱: with Curiosity🧐, Adaptability💭, and a Talent for collaboration🔗~",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Buffalo, NY",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=CA6DLrQX2GkC&hl"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0009-0008-9497-2420"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "University at Buffalo",
+      "area": "First year Ph.D in Curriculum, Instruction, and Science of Learning",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Stanford University",
+      "area": "M.S. in Learning Design and Technology",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Vanderbilt University",
+      "area": "B.S. in Elementary Education; B.S. in Child Development",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": ["Python, R, Microsoft Office, Google Applications"],
+  "languages": ["Mandarin (native); English (fluent); Korean, Spanish, and American Sign Language (basic)"],
+  "interests": ["Dance, Basketball, Escape Rooms, Mafia, and Rubik's Cubes"],
+  "references": [],
+  "publications": [
+    {
+      "name": "Cybersecurity matters for primary school students: A scoping review of the trends, challenges, and opportunities",
+      "publisher": "IEEE Transactions on Learning Technologies",
+      "releaseDate": "2025-04-25",
+      "website": "https://ieeexplore.ieee.org/document/10977735",
+      "summary": ""
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Teacher Octopus: Supporting pre-service teachers in developing classroom management skills",
+      "event": "SWAYWO, Stanford University",
+      "date": "2025-05-09",
+      "location": "Stanford, CA, USA",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "PSY-PC 1111: First Year Writing Seminar - Harry Potter & Child Dev",
+      "institution": "Vanderbilt University",
+      "date": "Spring 2023",
+      "role": "Teaching Assistant",
+      "description": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Teaching Portfolio - Fall 2023",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://yukunxu.wixsite.com/educ3216-3270",
+      "description": "A reflection of teaching of Spring 2023 and Fall 2023"
+    },
+    {
+      "name": "Teaching Portfolio - Summer 2023",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://yukunxu.wixsite.com/engagement",
+      "description": "Reflection of the ABC engagement framework based on summer intern"
+    },
+    {
+      "name": "Teaching Portfolio - Fall 2021",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://yukunxu.wixsite.com/educ3212",
+      "description": "First teaching experience, a teaching portfolio from EDUC 3212"
+    },
+    {
+      "name": "placeholder portfolio",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    }
+  ]
+}
