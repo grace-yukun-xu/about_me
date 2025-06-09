@@ -22,10 +22,10 @@ repository               : "https://github.com/grace-yukun-xu/about_me"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof pic.jpg"
   name             : "Grace Xu"
   pronouns         : "she/her"  
-  bio              : "I'm a CAT person🐱: with Curiosity🧐, Adaptability💭, and a Talent for collaboration🔗~"
+  bio              : "I'm a CAT person🐱: \nCuriosity🧐, \ndaptability💭, and a \nTalent for collaboration🔗~"
   location         : "Buffalo, NY"
   employer         : "University at Buffalo"
   uri              : # URL
