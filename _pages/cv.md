@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * First year Ph.D in Curriculum, Instruction, and Science of Learning, University at Buffalo
