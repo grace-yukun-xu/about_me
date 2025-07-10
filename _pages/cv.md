@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* First year Ph.D in Curriculum, Instruction, and Science of Learning, University at Buffalo
+* Incoming Ph.D student in Curriculum, Instruction, and Science of Learning, University at Buffalo (admitted for 2025 Fall)
 * M.S. in Learning Design and Technology, Stanford University, 2025
 * B.S. in Elementary Education, Vanderbilt University, 2024
 * B.S. in Child Development, Vanderbilt University, 2024
